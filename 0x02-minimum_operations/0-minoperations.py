@@ -4,7 +4,8 @@
 
 def minOperations(n: int) -> int:
     """
-    Calculates the fewest number of operations needed to result in exactly n H characters.
+    Calculates the fewest number of operations
+    needed to result in exactly n H characters.
 
     Args:
         n (int): The target number of H characters.
